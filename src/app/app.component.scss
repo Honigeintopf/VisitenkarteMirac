@@ -1,0 +1,18 @@
+* {
+  overflow: hidden !important;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+app-main {
+  display: flex;
+  justify-content: center;
+  background: url("./../assets/pics/image\ 2.png"), lightgray !important;
+  background-size: cover !important;
+}
+
+app-main {
+  display: flex;
+  justify-content: center;
+}
